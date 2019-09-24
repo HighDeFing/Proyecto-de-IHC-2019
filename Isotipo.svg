@@ -1,9 +1,11 @@
 <svg width="80" height="70" viewBox="0 0 80 70" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <rect width="80" height="70" rx="35" fill="url(#pattern0)"/>
-<line x1="18.5" y1="66" x2="18.5" y2="4" stroke="black" stroke-linejoin="bevel"/>
-<path d="M79 28.5044C68.9357 28.3351 53.9706 32.9891 49.5 51.5182C45.0294 70.0474 21.8113 63.8627 13 62.0246" stroke="#0D3B51"/>
-<path d="M4 19.0745C15.1202 18.4974 37.1752 20.8111 40.6667 42.6069C42.9612 56.9305 56.0635 62.9303 64 64" stroke="#FC0000"/>
-<line x1="9" y1="57.5" x2="72" y2="57.5" stroke="black"/>
+<rect width="80" height="70" rx="35" stroke="black"/>
+<line x1="18.5" y1="65" x2="18.5" y2="5" stroke="black" stroke-linejoin="bevel"/>
+<line x1="9" y1="57.5" x2="71" y2="57.5" stroke="black"/>
+<path d="M4 20.0729C15.1202 19.5086 37.1752 21.7709 40.6667 43.0823C42.9612 57.0876 56.0635 62.9541 64 64" stroke="#FC0000"/>
+<path d="M79 28.5037C68.1733 28.3626 52.0744 32.2409 47.2652 47.6819C42.4559 63.1228 17.4788 57.9689 8 56.4371" stroke="#0D3B51"/>
+<rect x="0.5" y="0.5" width="79" height="69" rx="34.5" stroke="black"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0" transform="scale(0.000520833 0.000925926)"/>
